@@ -1,0 +1,21 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-08T17:39:38+12:00"
+    },
+    {
+      "path": "index.html",
+      "title": "My sample blog in {distill}",
+      "description": "Welcome to the website. I hope you enjoy it!\n",
+      "author": [],
+      "contents": "\r\n#Hi! there!\r\nThis is my sample website in distill. I really want to main and update it. I hope it works fine for me.\r\n#Education: # Work Experience\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-06-08T17:39:39+12:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
